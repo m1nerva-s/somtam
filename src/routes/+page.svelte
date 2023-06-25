@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>เว็บส้มตำ</title> 
+</svelte:head>
+
 <script>
   import { somtamList } from "../somtamList";
   // import { Card } from "../components/Card.svelte";
